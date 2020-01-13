@@ -1,3 +1,4 @@
+.gitignore
 sample_submission.csv
 deepfake-detection-model.h5
 dataset/
