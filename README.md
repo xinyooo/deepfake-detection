@@ -1,4 +1,7 @@
 # deepfake_detection
+
+***This project is still on working, not the final version, and the model is overfitting.***
+
 Detect the video is fake or not using InceptionResNetV2.
 
 
